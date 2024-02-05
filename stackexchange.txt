@@ -1,0 +1,17 @@
+! Filter cookie consent popup
+askubuntu.com###onetrust-consent-sdk
+mathoverflow.net###onetrust-consent-sdk
+serverfault.com###onetrust-consent-sdk
+stackapps.com###onetrust-consent-sdk
+stackexchange.com###onetrust-consent-sdk
+stackoverflow.com###onetrust-consent-sdk
+superuser.com###onetrust-consent-sdk
+
+! Filter Signup banner
+askubuntu.com##.js-dismissable-hero
+mathoverflow.net##.js-dismissable-hero
+serverfault.com##.js-dismissable-hero
+stackapps.com##.js-dismissable-hero
+stackexchange.com##.js-dismissable-hero
+stackoverflow.com##.js-dismissable-hero
+superuser.com##.js-dismissable-hero
